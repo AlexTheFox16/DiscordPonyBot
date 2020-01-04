@@ -1,45 +1,45 @@
 {
     "offical": true,
     "language": {
-        "name": "PortuguÍs do Brasil",
+        "name": "Portugu√™s do Brasil",
         "ISO": "Pt-BR"
     },
     "help": {
         "help": "Ajuda",
         "commands": "Comandos",
         "showHelp": "- Amostra isto",
-        "hugsYou": "- AbraÁa vocÍ",
-        "boopsYou": "- Boop vocÍ",
-        "derpibooru": "[tags,tags] - Pega imagens aleatÛrias de derpibooru.org",
-        "wordDeinition": "[word] - Define a palavra",
-        "urbanDictonary": "[word] - Define word from urbanDictonary",
-        "translate": "[language] [message] - translate text",
-        "rolls": "[[min-]max] - Randomize a number",
-        "joke": "- Tells you random joke",
-        "fact": "- Tells you random fact",
-        "stats": "[user/server/bot] - Shows stats"
+        "hugsYou": "- Abra√ßa voc√™",
+        "boopsYou": "- Boopa voc√™",
+        "derpibooru": "[tags,tags] - Pega imagens aleat√≥rias de derpibooru.org",
+        "wordDeinition": "[word] - Define uma palavra",
+        "urbanDictonary": "[word] - Define uma palavra de urbanDictonary",
+        "translate": "[idioma] [mensagem] - traduz um texto",
+        "rolls": "[[min-]max] - Aleatoriza um n√∫mero",
+        "joke": "- Te conta uma piada aleat√≥ria",
+        "fact": "- Te conta um fato aleat√≥rio",
+        "stats": "[user/server/bot] - Amostra estat√≠sticas"
     },
     "other": {
         "boops": "Boopa",
-        "hugs": "AbraÁa"
+        "hugs": "Abra√ßa"
     },
     "ponytown": {
         "collected": "Coletado/s",
-        "changelog": "Registro de AlteraÁıes",
-        "yourRandomFaceIs": "Your random face is"
+        "changelog": "Registro de Altera√ß√µes",
+        "yourRandomFaceIs": "Seu rosto aleat√≥rio √©"
     },
     "info": {
-        "prefixInfo": "My prefix in this guild is",
-        "error": "Unknown error"
+        "prefixInfo": "Meu prefixo nesta guilda √©",
+        "error": "Erro Desconhecido"
     },
     "guildAdmin": {
-        "prefixNotFound": "Prefix must at least have 1 charater!",
-        "prefixLimit": "Prefix cannot be longer than 5 charaters!",
-        "prefixSuccessfully": "prefix of this guild changed succeffuly! New prefix",
-        "prefixShow": "Prefix of this guild is",
-        "notAdmin": "You are not admin of this guild",
-        "newGuildLang": "New guild language is",
-        "langNotExist": "This language does not exist or is not available. Languages that you can use"
+        "prefixNotFound": "Prefixo tem que ter pelo menos 1 caracteres!",
+        "prefixLimit": "Prefixo n√£o pode ter mais de 5 caracteres!",
+        "prefixSuccessfully": "prefixo da guilda alterado com sucesso! Novo prefixo",
+        "prefixShow": "Prefixo desta guilda √©",
+        "notAdmin": "Voc√™ n√£o √© administrador desta guilda",
+        "newGuildLang": "Nova ",
+        "langNotExist": "Este idioma n√£o existe ou n√£o est√° dispon√≠vel. L√≠nguas que voc√™ pode usar"
     },
     "roll": {
         "rolled": "rolou",
@@ -48,31 +48,31 @@
     "translate": {
         "help": "Ajuda",
         "error": "Erro",
-        "langError": "Erro de Linguagem",
+        "langError": "Erro de Idioma",
         "translatedTo": "Traduzido para",
-        "command": "traduzir <language-to-translate> <message-to-translate>",
-        "msgNotFound": "Mensagem para traduzir n„o encontrada",
-        "languageError": "A lÌngua que vocÍ est· tentando traduzir n„o est· disponÌvel ou n„o existe"
+        "command": "traduzir <idioma-para-traduzir> <mensagem-para-traduzir>",
+        "msgNotFound": "Mensagem para traduzir n√£o encontrada",
+        "languageError": "O idioma que voc√™ est√° tentando traduzir n√£o est√° dispon√≠vel ou n√£o existe"
     },
     "derpibooru": {
         "error": "Erro",
-        "unavailable": "IndisponÌvel no momento",
-        "score": "PontuaÁ„o",
-        "description": "DescriÁ„o",
+        "unavailable": "Indispon√≠vel no momento",
+        "score": "Pontua√ß√£o",
+        "description": "Descri√ß√£o",
         "tags": "Tags",
         "artist": "Artista",
         "unknownArtist": "Artista Desconhecido",
         "derpibooruImage": "Imagem de Derpibooru",
         "uploader": "Uploader",
         "nothingFound": "Nenhum resultado",
-        "missingEmbedPermission": "Faltando permiss„o incorporada!"
+        "missingEmbedPermission": "Faltando permiss√£o incorporada!"
     },
 
     "stats": {
         "status": {
             "name": "Status",
             "online": "On-line",
-            "dnd": "N„o Perturbe",
+            "dnd": "N√£o Perturbe",
             "idle": "Parado",
             "offline": "Offline"
         },
@@ -100,7 +100,7 @@
             "joinAge": "Esteve nesta guilda",
             "roles": "Cargos",
             "nickname": "Apelido",
-            "region": "Regi„o",
+            "region": "Regi√£o",
             "bots": "Bots",
             "humans": "Humanos",
             "channels": "Canais",
@@ -109,13 +109,13 @@
             "emojis": "Emojis",
             "noTextChannels": "Nenhum canal de texto",
             "members": "Membros",
-            "noOne": "NinguÈm",
+            "noOne": "Ningu√©m",
             "noBots": "Nenhum bots",
             "noHumans": "Nenhum humano"
         },
         "bot": {
             "totalTextChannels": "Canais de texto no total",
-            "totalUsers": "Usu·rios no Total",
+            "totalUsers": "Usu√°rios no Total",
             "totalGuilds": "Guildas no Total",
             "inviteLink": "Link de Convite",
             "clickHere": "Click",
@@ -123,13 +123,13 @@
         }
     },
     "guild": {
-        "info": "InformaÁıes",
+        "info": "Informa√ß√µes",
         "join": "Entrou na the Guilda",
         "left": "Deixou a Guilda",
         "accountAge": "Conta Criada"
     }
 }
-            "totalUsers": "Total de usu·rios",
+            "totalUsers": "Total de usu√°rios",
             "totalGuilds": "Total de guildas",
             "inviteLink": "Link de Convite",
             "clickHere": "Clique",
